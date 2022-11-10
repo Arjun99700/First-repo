@@ -1,0 +1,261 @@
+PS C:\Windows\system32> systeminfo
+
+Host Name:                 JVLTEAMCITY02
+OS Name:                   Microsoft Windows Server 2012 R2 Datacenter
+OS Version:                6.3.9600 N/A Build 9600
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Member Server
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Windows User
+Registered Organization:
+Product ID:                00253-40270-76554-AA667
+Original Install Date:     3/26/2014, 5:01:20 PM
+System Boot Time:          5/5/2022, 1:36:35 AM
+System Manufacturer:       VMware, Inc.
+System Model:              VMware Virtual Platform
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 26 Stepping 4 GenuineIntel ~2800 Mhz
+BIOS Version:              Phoenix Technologies LTD 6.00, 9/21/2015
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:     12,288 MB
+Available Physical Memory: 5,852 MB
+Virtual Memory: Max Size:  14,144 MB
+Virtual Memory: Available: 7,714 MB
+Virtual Memory: In Use:    6,430 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    hps.com
+Logon Server:              \\JVLDC01
+Hotfix(s):                 172 Hotfix(s) Installed.
+                           [01]: KB3191564
+                           [02]: KB2843630
+                           [03]: KB2868626
+                           [04]: KB2883200
+                           [05]: KB2887595
+                           [06]: KB2893294
+                           [07]: KB2894179
+                           [08]: KB2901128
+                           [09]: KB2903939
+                           [10]: KB2911106
+                           [11]: KB2912390
+                           [12]: KB2919355
+                           [13]: KB2919394
+                           [14]: KB2919442
+                           [15]: KB2923528
+                           [16]: KB2928680
+                           [17]: KB2934520
+                           [18]: KB2966826
+                           [19]: KB2966828
+                           [20]: KB2968296
+                           [21]: KB2972103
+                           [22]: KB2973201
+                           [23]: KB2976897
+                           [24]: KB2999226
+                           [25]: KB3000483
+                           [26]: KB3003057
+                           [27]: KB3010788
+                           [28]: KB3019978
+                           [29]: KB3023219
+                           [30]: KB3023266
+                           [31]: KB3037576
+                           [32]: KB3045685
+                           [33]: KB3045999
+                           [34]: KB3046017
+                           [35]: KB3059317
+                           [36]: KB3061512
+                           [37]: KB3064209
+                           [38]: KB3071756
+                           [39]: KB3072307
+                           [40]: KB3074545
+                           [41]: KB3076949
+                           [42]: KB3082089
+                           [43]: KB3084135
+                           [44]: KB3086255
+                           [45]: KB3097992
+                           [46]: KB3102467
+                           [47]: KB3109103
+                           [48]: KB3109560
+                           [49]: KB3110329
+                           [50]: KB3126434
+                           [51]: KB3126587
+                           [52]: KB3127222
+                           [53]: KB3133043
+                           [54]: KB3138910
+                           [55]: KB3138962
+                           [56]: KB3139914
+                           [57]: KB3139929
+                           [58]: KB3146723
+                           [59]: KB3151864
+                           [60]: KB3156059
+                           [61]: KB3159398
+                           [62]: KB3161949
+                           [63]: KB3173424
+                           [64]: KB3175024
+                           [65]: KB3178539
+                           [66]: KB3185319
+                           [67]: KB3192392
+                           [68]: KB3197873
+                           [69]: KB3205400
+                           [70]: KB4012213
+                           [71]: KB4015547
+                           [72]: KB4018271
+                           [73]: KB4019213
+                           [74]: KB4022717
+                           [75]: KB4025333
+                           [76]: KB4034672
+                           [77]: KB4038793
+                           [78]: KB4040967
+                           [79]: KB4041687
+                           [80]: KB4054177
+                           [81]: KB4054522
+                           [82]: KB4054566
+                           [83]: KB4056898
+                           [84]: KB4074736
+                           [85]: KB4088879
+                           [86]: KB4093115
+                           [87]: KB4096236
+                           [88]: KB4103715
+                           [89]: KB4230450
+                           [90]: KB4284878
+                           [91]: KB4338605
+                           [92]: KB4338824
+                           [93]: KB4339093
+                           [94]: KB4343205
+                           [95]: KB4344166
+                           [96]: KB4344178
+                           [97]: KB4457143
+                           [98]: KB4462941
+                           [99]: KB4467703
+                           [100]: KB4483450
+                           [101]: KB4483459
+                           [102]: KB4486105
+                           [103]: KB4486474
+                           [104]: KB4489883
+                           [105]: KB4493435
+                           [106]: KB4495608
+                           [107]: KB4495624
+                           [108]: KB4495625
+                           [109]: KB4498206
+                           [110]: KB4506993
+                           [111]: KB4514331
+                           [112]: KB4532940
+                           [113]: KB4532946
+                           [114]: KB4532951
+                           [115]: KB4532961
+                           [116]: KB4535680
+                           [117]: KB4540671
+                           [118]: KB4540725
+                           [119]: KB4541505
+                           [120]: KB4550905
+                           [121]: KB4552933
+                           [122]: KB4552962
+                           [123]: KB4552966
+                           [124]: KB4552982
+                           [125]: KB4556798
+                           [126]: KB4561603
+                           [127]: KB4562253
+                           [128]: KB4565479
+                           [129]: KB4565540
+                           [130]: KB4565588
+                           [131]: KB4565613
+                           [132]: KB4565635
+                           [133]: KB4566425
+                           [134]: KB4569753
+                           [135]: KB4571687
+                           [136]: KB4576486
+                           [137]: KB4577010
+                           [138]: KB4578013
+                           [139]: KB4578953
+                           [140]: KB4578976
+                           [141]: KB4580325
+                           [142]: KB4586768
+                           [143]: KB4586823
+                           [144]: KB4592495
+                           [145]: KB4598275
+                           [146]: KB4601058
+                           [147]: KB4601349
+                           [148]: KB5000800
+                           [149]: KB5001403
+                           [150]: KB5003165
+                           [151]: KB5003636
+                           [152]: KB5004233
+                           [153]: KB5004285
+                           [154]: KB5005036
+                           [155]: KB5005563
+                           [156]: KB5006671
+                           [157]: KB5007255
+                           [158]: KB5008285
+                           [159]: KB5008868
+                           [160]: KB5008883
+                           [161]: KB5008897
+                           [162]: KB5010395
+                           [163]: KB5010419
+                           [164]: KB5011486
+                           [165]: KB5011560
+                           [166]: KB5011564
+                           [167]: KB5012124
+                           [168]: KB5012144
+                           [169]: KB5012152
+                           [170]: KB5012670
+                           [171]: KB5012672
+                           [172]: KB5006714
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Intel(R) 82574L Gigabit Network Connection
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 10.12.103.42
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+PS C:\Windows\system32>
+
+
+PS C:\Windows\system32> ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : JVLTEAMCITY02
+   Primary Dns Suffix  . . . . . . . : hps.com
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : hps.com
+                                       e-hps.com
+                                       proc.hpsad.com
+                                       hpsad.com
+                                       secureexchange.net
+                                       hpydat.net
+                                       hpypyr.net
+                                       hpypep.net
+                                       debitek.loc
+                                       forsythehosting.com
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Intel(R) 82574L Gigabit Network Connection
+   Physical Address. . . . . . . . . : 00-50-56-84-60-5E
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 10.12.103.42(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 10.12.103.1
+   DNS Servers . . . . . . . . . . . : 192.168.84.100
+                                       192.168.84.102
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{108FB264-2B5C-467A-9688-7AF33B70CA43}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+PS C:\Windows\system32>
+
+BuildExLAb:9600.20334.amd64fre.winblue_ltsb_escrow.220324-1651
